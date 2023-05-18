@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Overview
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app displays the product image and changes on color option selected demo-> (https://rrsrnc.github.io/React-Product-Page/)
 
 ## Available Scripts
 
